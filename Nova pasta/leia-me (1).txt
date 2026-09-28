@@ -1,0 +1,1 @@
+SITE SAMTOUR_FORTALEZA\n\nWhatsApp configurado: (85) 98103-9969.\nA imagem de fundo criada para a identidade visual está em assets/fundo-samtour.png.\nAbra index.html para testar localmente.\n
